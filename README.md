@@ -4,3 +4,4 @@
 ●	Designed and deployed the “city name and background change” feature. 
 
 ●	Incorporated API integration feature using Javascript
+
